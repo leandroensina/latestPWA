@@ -1,7 +1,8 @@
 var cacheName = 'pwa-commits-v3';
 
 var filesToCache = [
-    './',
+    './index.html',
+    './latest.html',
     './css/style.css',
     './images/books.png',
     './images/Home.svg',
